@@ -3,7 +3,7 @@
 
 This class is blowing my mind because I have no idea what I'm doing.
 
-This is my change...
+Here's my change.
 
 1. This
 2. Is
