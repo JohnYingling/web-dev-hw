@@ -7,25 +7,25 @@ p {
 color: #e3ddd6;}
 
 p.three {
-background-color: #cccccc;
+background-color: #a3c285;
 color: #ffffff;
 text-shadow: 2px 2px 7px #111111;}
 
 body {
 font-family: Arial, Verdana, sans-serif;}
 h4, {
-color: #2dd7e2;}
+color: #e2842d;}
 p {
-color: rgba(#32c414, 0.55);}
+color: rgba(#172a13, 0.55);}
 
 body {
-background-color: rgb(242, 137, 40);}
+background-color: rgb(228, 228, 228);}
 h1 {
-background-color: DarkCyanrgb(29, 82, 55);}
+background-color: DarkCyanrgb(140, 34, 34);}
 h4 {
-background-color: #1a8b56;}
+background-color: #0b1a13;}
 p {
-background-color: whitergb(247, 230, 72);}
+background-color: whitergb(131, 173, 184);}
 
 body {
 text-align: center;}
