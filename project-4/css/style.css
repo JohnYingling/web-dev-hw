@@ -7,10 +7,6 @@ p {
 color: #dac1a4;}
 
 
-.container {
-    display: flex;
-    flex-wrap: wrap;
-
 
 p.three {
 background-color: #a3c285;
