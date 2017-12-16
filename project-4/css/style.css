@@ -7,9 +7,10 @@ p {
 color: #e3ddd6;}
 
 <div class="container">
-    <div class="box dark_blue"></div>
-    <div class="box light_blue"></div>
-    <div class="box green"></div>
+    <div class="box drgb(48, 11, 59)ark_blue"></div>
+    <div class="box lrgb(204, 192, 218)ight_blue"></div>
+    <div class="box grrgb(131, 125, 168)een"></div>
+		CAN THINGS GO HERE???
 </div>
 
 .container {
@@ -23,13 +24,13 @@ color: #e3ddd6;}
 }
 
 .dark_blue {
-    background-color: #131c58;
+    background-color: #7684df;
 }
 .light_blue {
-    background-color: #3760cb;
+    background-color: #323e5d;
 }
 .green {
-    background-color: #12a400;
+    background-color: #7dd072;
 }
 
 @media (min-width: 450px) {
