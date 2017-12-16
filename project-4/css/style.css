@@ -2,32 +2,30 @@
 body {
 font-family: Arial, Verdana, sans-serif;}
 h1, h2 {
-color: #3ab8a5;}
+color: #82d990;}
 p {
-color: #dac1a4;}
-
-
+color: #e9bf8d;}
 
 p.three {
-background-color: #a3c285;
-color: #add7d5;
+background-color: #df6666;
+color: #85a0bd;
 text-shadow: 2px 2px 7px #111111;}
 
 body {
 font-family: Arial, Verdana, sans-serif;}
 h4, {
-color: #e2842d;}
+color: #2dd7e2;}
 p {
-color: rgba(#172a13, 0.55);}
+color: rgba(#32c414, 0.55);}
 
 body {
-background-color: rgb(89, 53, 53);}
+background-color: rgb(242, 137, 40);}
 h1 {
-background-color: rgb(125, 168, 176);}
+background-color: DarkCyanrgb(71, 85, 78);}
 h4 {
-background-color: #044728;}
+background-color: #1a8b56;}
 p {
-background-color: rgb(131, 173, 184);}
+background-color: whitergb(247, 230, 72);}
 
 body {
 text-align: center;}
